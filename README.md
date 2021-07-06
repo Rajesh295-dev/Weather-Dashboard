@@ -21,7 +21,7 @@ The local storage is used here to store the previous search city and display the
 If the user wants to see the past search city weather condition again, just click the list group item cities under the clear history button.
 
 Link for the deployed application [WeatherDashboard](https://rajesh295-dev.github.io/Weather-Dashboard/)
-Link for the GithuB repository[Host by Github](https://github.com/Rajesh295-dev/Weather-Dashboard/settings/pages)
+Link for the GithuB repository[Host by Github](https://github.com/Rajesh295-dev/Weather-Dashboard.git)
 
 ### Screenshots:
 
@@ -30,6 +30,6 @@ The weather app includes a search option, a list of cities, and a five-day forec
 Before enter the city name.
    ![](./assets/images/before-search-city.png) 
 
-After to enter the city name.  
+After entered the city name.  
 ![](./assets/images/after-search-city.png)
 
